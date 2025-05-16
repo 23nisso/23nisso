@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anis!
-- 👀 I’m interested in learning about Cloud, Software, networks and Security 
+- 👀 I’m interested in learning about Cloud, Software, Networks and Security 
 - 🌱 I’m currently learning OOP, API's, Git Bash & Postman
 - 💞️ I’m looking to collaborate on GitHub
 - ⚡ Fun fact: I'm Algerian
